@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/c1671/project/fox_ses_r-office","disabled":false,"__vagrantfile":true}},"rsync":{"/home/phalcon":{"type":"rsync","rsync__auto":"true","guestpath":"/home/phalcon","hostpath":"/Users/c1671/project/fox_ses_r-office/phalcon","disabled":false,"__vagrantfile":true,"auto":"true","owner":"vagrant","group":"vagrant"}}}
