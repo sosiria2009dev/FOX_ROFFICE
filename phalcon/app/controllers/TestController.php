@@ -8,7 +8,7 @@ class TestController extends \Phalcon\Mvc\Controller
         // phpinfo();
         $debug = TestTable::find();
         foreach ($debug as $val) {
-            echo $val->id.' - '.$val->val."<br />";
+            echo '[id]'.$val->id.' [val]'.$val->val."<br />";
         }        
     }
 
